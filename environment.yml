@@ -1,0 +1,11 @@
+name: AST203
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy
+  - seaborn
+  - jupyterlab
+  - tqdm
+  - python=3
+prefix: /Users/wfarr/anaconda3/envs/AST203
